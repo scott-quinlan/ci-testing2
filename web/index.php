@@ -1,3 +1,3 @@
-New file - commit #1
+New file - commit #2
 
 <?php phpinfo();
